@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Junior
+comment0.text=\r\n\ Kelas\ Junior\ \r\n\r\n\ @author\ Zul\ Akhyar\r\n\ @version\ 12.11.2021\r\n
+comment1.params=nama\ no_Rekening\ saldo_awal
+comment1.target=Junior(java.lang.String,\ long,\ double)
+comment1.text=\r\n\ Konstruktor\ Junior\r\n
+comment2.params=jumlah
+comment2.target=void\ TarikUang(double)
+numComments=3

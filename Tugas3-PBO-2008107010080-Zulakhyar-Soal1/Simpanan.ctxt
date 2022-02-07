@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Simpanan
+comment0.text=\r\n\ Kelas\ Simpanan\r\n\r\n\ @author\ Zul\ Akhyar\r\n\ @version\ 12.11.2021\r\n
+comment1.params=nama\ no_Rekening\ saldo_awal
+comment1.target=Simpanan(java.lang.String,\ long,\ double)
+comment1.text=\r\n\ Konstruktor\ Simpanan\r\n
+numComments=2
