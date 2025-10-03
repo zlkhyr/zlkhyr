@@ -1,8 +1,10 @@
-## Hi 👋 
-😃 Saya Zul</br>
+<h1>Hi👋, Saya Zul Akhyar</h1>
+
 🆕 Seorang pemula yang bersemangat untuk mengubah ide menjadi kode.</br>
 👷 Percaya bahwa cara terbaik untuk belajar adalah dengan membangun sesuatu. </br>
 📖 Mencari pengalaman, saran, dan kesempatan. </br>
+
+🔗 Feel free to invite me to your project! 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
