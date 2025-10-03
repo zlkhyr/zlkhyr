@@ -1,7 +1,8 @@
-## Hi 👋
-🆕 Saya adalah seorang pemula yang bersemangat untuk mengubah ide menjadi kode.</br>
-👷 Saya percaya bahwa cara terbaik untuk belajar adalah dengan membangun sesuatu. </br>
-📖 Mencari pengalaman, saran, dan kesempatan untuk berkontribusi pada proyek yang ramah untuk pemula. </br>
+## Hi 👋 
+😃 Saya Zul</br>
+🆕 Seorang pemula yang bersemangat untuk mengubah ide menjadi kode.</br>
+👷 Percaya bahwa cara terbaik untuk belajar adalah dengan membangun sesuatu. </br>
+📖 Mencari pengalaman, saran, dan kesempatan. </br>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
