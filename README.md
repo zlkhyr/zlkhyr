@@ -1,4 +1,4 @@
-<h1>Hi👋, Saya Zul Akhyar</h1>
+<h1>Hi👋</h1>
 
 🆕 Seorang pemula</br>
 📖 Mencari pengalaman, saran, dan kesempatan. </br>
@@ -20,4 +20,4 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zlkhyr&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zakhyar38@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]() 
