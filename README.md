@@ -1,9 +1,9 @@
-<h1>Hi👋</h1>
+<div align="center">
+  <h3>"Fosil yang bernapas, berpikir, dan berkedip di depan monitor 24/7."</h3>
+  <p><i>"A fossil that breathes, thinks, and blinks in front of a monitor 24/7."</i></p>
+</div>
 
-🆕 Seorang pemula</br>
-📖 Mencari pengalaman, saran, dan kesempatan. </br>
-
-🔗 Feel free to invite me to your project! 
+---
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
@@ -17,7 +17,3 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zlkhyr&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]() 
